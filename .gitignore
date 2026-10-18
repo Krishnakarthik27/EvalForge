@@ -1,0 +1,27 @@
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/coverage/
+frontend/playwright-report/
+frontend/test-results/
+
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/.pytest_cache/
+backend/.coverage
+backend/htmlcov/
+backend/*.db
+backend/*.sqlite
+*.py[cod]
+
+# Environment and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
+
+# Postgres data
+postgres-data/
