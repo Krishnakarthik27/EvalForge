@@ -25,3 +25,4 @@ backend/*.sqlite
 
 # Postgres data
 postgres-data/
+*.tsbuildinfo
